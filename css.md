@@ -12,7 +12,7 @@ Ezt biztosítják a stíluslapok.
 
 ## Alapvető HTML
 
-### Egy egyszerű HTML oldal a következőképpen néz ki
+### Egy egyszerű HTML oldal forrása a következőképpen néz ki
 
 ```HTML
 <HTML>
@@ -24,3 +24,15 @@ Ezt biztosítják a stíluslapok.
   </BODY>
 </HTML>  
 ```
+### A HTML leíró elemei
+
+A HTML gyakorlatilag azt adja meg, hogy az adott tartalom az oldalon micsoda. 
+A leggyakrabban megjelenő elemek:
+ - szöveg típusú elemek (bekezdés, felsorolások)
+ - képek
+ - hiperhivatkozások
+ - táblázatok
+ - form elemek
+ 
+ 
+ 
