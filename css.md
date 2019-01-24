@@ -36,6 +36,8 @@ A leggyakrabban megjelenő elemek:
  
  ### HTML fájl meta információkkal, és stíluslap betöltéssel
  
+
+ 
  ```html
 <HTML>
 
@@ -54,4 +56,13 @@ A leggyakrabban megjelenő elemek:
 </HTML>
 ```
  
+ ### CSS stílusok
+ 
+  - kiválasztás HTML tag alapján
+  ```css
+  body {
+    background-color: magenta;
+    font-family: sans-serif;
+  }
+  ```
  
