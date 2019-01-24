@@ -28,7 +28,7 @@ Ezt biztosítják a stíluslapok.
 
 A HTML gyakorlatilag azt adja meg, hogy az adott tartalom az oldalon micsoda. 
 A leggyakrabban megjelenő elemek:
- - szöveg típusú elemek (bekezdés, felsorolások)
+ - szöveg típusú elemek (bekezdés, felsorolások,címsorok)
  - képek
  - hiperhivatkozások
  - táblázatok
