@@ -9,3 +9,18 @@ Felmerült az igény arra, hogy a HTML lehetőség szerint ne vagy csak minimál
 a tartalom leírásától független legyen. 
 
 Ezt biztosítják a stíluslapok.
+
+## Alapvető HTML
+
+### Egy egyszerű HTML oldal a következőképpen néz ki
+
+```HTML
+<HTML>
+  <HEAD>
+    <TITLE>Az oldal címe</TITLE>
+  </HEAD>
+  <BODY>
+    Ez a dokumentumtörzs
+  </BODY>
+</HTML>  
+```
