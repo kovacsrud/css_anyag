@@ -34,5 +34,24 @@ A leggyakrabban megjelenő elemek:
  - táblázatok
  - form elemek
  
+ ### HTML fájl meta információkkal, és stíluslap betöltéssel
+ 
+ ```html
+<HTML>
+
+<Head>
+    <title>Egyszerű html oldal</title>
+    <meta lang="hu" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</Head>
+
+<body>
+    Ez a dokumentumtörzs.
+
+
+</body>
+
+</HTML>
+```
  
  
